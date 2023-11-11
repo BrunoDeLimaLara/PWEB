@@ -1,0 +1,56 @@
+body {
+font-family: sans-serif;
+background-color: black;
+} 
+header {
+background-color: #000000;
+color: #ffffff;
+text-align: center;
+}
+.container {
+display: flex;
+justify-content: space-between; 
+}
+.introducao{
+text-align: center;
+}
+img {
+width: 400px;
+height: 300px;
+}
+
+p {
+color: #ffffff;
+text-align: justify;
+margin-right: 5%;
+margin-left: 5%;
+position: absolute;
+left: 30%;
+font-size: 19px;
+line-height: 1.5;
+}
+li{
+line-height: 1.5;
+
+}
+.contato{
+text-align: center;
+}
+h2{
+color: white;
+text-align: center;
+}
+h3{
+color: white;
+text-align: center;
+}
+footer{
+  text-align: center;
+  color: white;
+}
+#cont{
+list-style-type: none;
+text-align: justify;
+text-align: center;
+font-size: 15px;
+}
